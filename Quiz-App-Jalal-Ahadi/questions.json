@@ -1,0 +1,487 @@
+[
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Lyon", "Marseille", "Nice"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which of these is a primary color in additive (RGB) color mixing?",
+    "correct_answer": "Blue",
+    "incorrect_answers": ["Greenish", "Pink", "Brown"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "How many days are there in a week?",
+    "correct_answer": "7",
+    "incorrect_answers": ["5", "6", "8"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What is the currency of Japan?",
+    "correct_answer": "Yen",
+    "incorrect_answers": ["Won", "Dollar", "Ruble"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which instrument has 88 keys in its standard form?",
+    "correct_answer": "Piano",
+    "incorrect_answers": ["Guitar", "Violin", "Flute"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which ocean is the largest by surface area?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which of these is NOT a continent?",
+    "correct_answer": "Greenland",
+    "incorrect_answers": ["Africa", "Europe", "South America"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which language family does Persian (Farsi) belong to?",
+    "correct_answer": "Indo-European",
+    "incorrect_answers": ["Uralic", "Sino-Tibetan", "Austronesian"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "In typography, what does the term 'serif' refer to?",
+    "correct_answer": "Small decorative strokes at the ends of letters",
+    "incorrect_answers": ["A paper size standard", "A printing error", "A type of ink"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which of these units measures electric resistance?",
+    "correct_answer": "Ohm",
+    "incorrect_answers": ["Watt", "Volt", "Ampere"]
+  },
+
+  {
+    "category": "Science",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What is the chemical symbol for water?",
+    "correct_answer": "H2O",
+    "incorrect_answers": ["CO2", "O2", "NaCl"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "How many planets are in the Solar System?",
+    "correct_answer": "8",
+    "incorrect_answers": ["7", "9", "10"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which gas do humans need to breathe to survive?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Carbon Dioxide", "Nitrogen", "Helium"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What part of the cell contains most of the genetic material?",
+    "correct_answer": "Nucleus",
+    "incorrect_answers": ["Ribosome", "Golgi apparatus", "Cell membrane"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which of these is a renewable energy source?",
+    "correct_answer": "Solar energy",
+    "incorrect_answers": ["Coal", "Natural gas", "Diesel"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "At sea level, what is the approximate boiling point of water in Celsius?",
+    "correct_answer": "100",
+    "incorrect_answers": ["90", "80", "110"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "correct_answer": "Vitamin D",
+    "incorrect_answers": ["Vitamin A", "Vitamin C", "Vitamin K"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "What is the name of the process by which plants convert light energy into chemical energy?",
+    "correct_answer": "Photosynthesis",
+    "incorrect_answers": ["Fermentation", "Respiration", "Transpiration"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which particle has a negative electric charge?",
+    "correct_answer": "Electron",
+    "incorrect_answers": ["Proton", "Neutron", "Photon"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "What is the pH of a neutral solution at 25°C?",
+    "correct_answer": "7",
+    "incorrect_answers": ["0", "1", "14"]
+  },
+
+  {
+    "category": "Computers",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What does CPU stand for?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": ["Computer Processing Utility", "Central Print Unit", "Core Processing Unit"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which device is primarily used to move the cursor on a desktop computer?",
+    "correct_answer": "Mouse",
+    "incorrect_answers": ["Monitor", "Speaker", "Printer"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What does URL stand for?",
+    "correct_answer": "Uniform Resource Locator",
+    "incorrect_answers": ["Universal Record Link", "Unified Resource List", "User Resource Locator"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which of these is a version control system?",
+    "correct_answer": "Git",
+    "incorrect_answers": ["Nginx", "NumPy", "SQLite"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which HTTP method is typically used to create a new resource?",
+    "correct_answer": "POST",
+    "incorrect_answers": ["GET", "DELETE", "HEAD"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "In SQL, which command is used to retrieve data from a table?",
+    "correct_answer": "SELECT",
+    "incorrect_answers": ["INSERT", "UPDATE", "DELETE"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What does RAM stand for?",
+    "correct_answer": "Random Access Memory",
+    "incorrect_answers": ["Rapid Application Memory", "Read Access Module", "Run All Memory"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which of these is NOT a layer in the OSI model?",
+    "correct_answer": "Execution",
+    "incorrect_answers": ["Transport", "Network", "Data Link"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which data structure is typically used to implement recursion call stacks?",
+    "correct_answer": "Stack",
+    "incorrect_answers": ["Queue", "Heap", "Graph"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "In cryptography, what does 'RSA' stand for?",
+    "correct_answer": "Rivest–Shamir–Adleman",
+    "incorrect_answers": ["Random Secure Algorithm", "Registered Security Association", "Rapid Symmetric Access"]
+  },
+
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What is the capital of Japan?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": ["Kyoto", "Osaka", "Nagoya"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which continent is Brazil in?",
+    "correct_answer": "South America",
+    "incorrect_answers": ["North America", "Europe", "Africa"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which ocean lies on the east coast of the United States?",
+    "correct_answer": "Atlantic Ocean",
+    "incorrect_answers": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which country has the largest population in the world?",
+    "correct_answer": "India",
+    "incorrect_answers": ["United States", "Indonesia", "Brazil"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What is the longest river in the world (commonly taught)?",
+    "correct_answer": "Nile",
+    "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which mountain range separates Europe and Asia in Russia (commonly used boundary)?",
+    "correct_answer": "Ural Mountains",
+    "incorrect_answers": ["Andes", "Alps", "Himalayas"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What is the smallest country in the world by area?",
+    "correct_answer": "Vatican City",
+    "incorrect_answers": ["Monaco", "Nauru", "San Marino"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which African country has the most pyramids?",
+    "correct_answer": "Sudan",
+    "incorrect_answers": ["Egypt", "Ethiopia", "Morocco"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "What is the capital of New Zealand?",
+    "correct_answer": "Wellington",
+    "incorrect_answers": ["Auckland", "Christchurch", "Dunedin"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which desert is the largest hot desert in the world?",
+    "correct_answer": "Sahara",
+    "incorrect_answers": ["Gobi", "Kalahari", "Atacama"]
+  },
+
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Who was the first President of the United States?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "In which year did the Titanic sink?",
+    "correct_answer": "1912",
+    "incorrect_answers": ["1905", "1910", "1918"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which ancient civilization built the pyramids at Giza?",
+    "correct_answer": "Ancient Egyptians",
+    "incorrect_answers": ["Ancient Greeks", "Romans", "Persians"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "In what year did World War II end?",
+    "correct_answer": "1945",
+    "incorrect_answers": ["1941", "1944", "1950"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "The Magna Carta was originally issued in which country?",
+    "correct_answer": "England",
+    "incorrect_answers": ["France", "Spain", "Germany"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which empire was ruled by Genghis Khan?",
+    "correct_answer": "Mongol Empire",
+    "incorrect_answers": ["Ottoman Empire", "Roman Empire", "British Empire"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "Which city was divided by a wall from 1961 to 1989?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": ["Vienna", "Prague", "Warsaw"]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "The Battle of Hastings (1066) took place in which country?",
+    "correct_answer": "England",
+    "incorrect_answers": ["France", "Norway", "Denmark"]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which treaty is commonly associated with ending World War I?",
+    "correct_answer": "Treaty of Versailles",
+    "incorrect_answers": ["Treaty of Paris", "Treaty of Rome", "Treaty of Tordesillas"]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Who was the Carthaginian general who led war elephants across the Alps?",
+    "correct_answer": "Hannibal Barca",
+    "incorrect_answers": ["Julius Caesar", "Alexander the Great", "Scipio Africanus"]
+  },
+
+  {
+    "category": "Math",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What is 12 × 12?",
+    "correct_answer": "144",
+    "incorrect_answers": ["124", "132", "156"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "What is 5 + 7?",
+    "correct_answer": "12",
+    "incorrect_answers": ["10", "11", "13"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Which number is even?",
+    "correct_answer": "18",
+    "incorrect_answers": ["17", "19", "21"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What is the value of pi to two decimal places?",
+    "correct_answer": "3.14",
+    "incorrect_answers": ["3.12", "3.16", "3.18"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What is the square root of 81?",
+    "correct_answer": "9",
+    "incorrect_answers": ["8", "7", "6"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "If a triangle has angles 90°, 45°, and 45°, what type of triangle is it?",
+    "correct_answer": "Right isosceles triangle",
+    "incorrect_answers": ["Equilateral triangle", "Scalene triangle", "Obtuse triangle"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "medium",
+    "type": "multiple",
+    "question": "What is 15% of 200?",
+    "correct_answer": "30",
+    "incorrect_answers": ["15", "20", "25"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "What is the derivative of x^2 with respect to x?",
+    "correct_answer": "2x",
+    "incorrect_answers": ["x", "x^2", "2"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "How many degrees are in a full circle?",
+    "correct_answer": "360",
+    "incorrect_answers": ["180", "270", "300"]
+  },
+  {
+    "category": "Math",
+    "difficulty": "hard",
+    "type": "multiple",
+    "question": "Which of these is a prime number?",
+    "correct_answer": "29",
+    "incorrect_answers": ["21", "27", "33"]
+  }
+]
